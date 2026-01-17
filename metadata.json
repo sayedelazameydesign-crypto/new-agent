@@ -1,0 +1,9 @@
+{
+  "name": "Celia AI Agent Dashboard",
+  "description": "لوحة تحكم ذكية لوكيل ذكاء اصطناعي مستقل يقوم بمهام البرمجة والتحليل تلقائياً.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
